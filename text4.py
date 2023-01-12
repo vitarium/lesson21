@@ -1,5 +1,5 @@
 price = 1020
 quantity = 10
 discount = 0.05
-
-print(price*quantity*discount)
+bonus=10
+print(bonus+price*quantity*discount)
