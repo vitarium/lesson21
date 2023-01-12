@@ -1,4 +1,4 @@
-price = 20
+price = 1020
 quantity = 10
 discount = 0.05
 
